@@ -1,0 +1,12 @@
+.rodape{
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: right;
+}
+
+.rodape span{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
